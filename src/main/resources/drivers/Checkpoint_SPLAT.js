@@ -31,7 +31,8 @@ var Info = {
 	name: "CheckpointSPLAT",
 	description: "Checkpoint SPLAT",
 	author: "NetFishers",
-	version: "1.3"
+	version: "1.3",
+	priority: 32768
 };
 
 var Config = {
